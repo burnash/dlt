@@ -20,6 +20,7 @@ author = 'dlt Authors'
 
 extensions = [
     'sphinx.ext.autodoc',
+    'sphinx.ext.napoleon',
 ]
 
 templates_path = ['_templates']
