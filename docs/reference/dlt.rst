@@ -2,7 +2,7 @@
 ==========
 
 .. automodule:: dlt
-   :members:
-   :show-inheritance:
 
 .. autofunction:: dlt.run
+.. autofunction:: dlt.pipeline
+.. autofunction:: dlt.attach
