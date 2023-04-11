@@ -1,5 +1,5 @@
 :mod:`dlt`
 ==========
-.. module:: dlt
+.. automodule:: dlt
 
 .. autofunction:: pipeline
