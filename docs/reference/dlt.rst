@@ -3,5 +3,6 @@
 
 .. automodule:: dlt
    :members:
+   :show-inheritance:
 
-.. autofunction:: pipeline
+.. autofunction:: dlt.run
